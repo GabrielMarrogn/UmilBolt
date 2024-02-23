@@ -1,0 +1,1 @@
+Umil Bolt é um excelente corredor. Sua especialidade é a prova dos 100 metros rasos. Todos os dias, ele faz uma bateria de tentativas de correr esta prova em um tempo cada vez menor. Pode se perceber que, dependendo da quantidade de tentativas, o seu desempenho melhora ou piora. Sobre isso, ele pede a sua ajuda para calcular a tentativa mais rápida de cada bateria diária.
